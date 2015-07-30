@@ -79,6 +79,9 @@
 				    
 			    <div>
 			    	<!-- /google adsense code here between title and content -->
+			    	&nbsp;
+			    	&nbsp;
+			    	&nbsp;
 			    </div>
 			    
 			    <div class="post-content">
@@ -118,6 +121,9 @@
 					
 					<div>
 			    			<!-- /google adsense code here between tags and post navigation -->
+			    			&nbsp;
+			    			&nbsp;
+			    			&nbsp;
 			    		</div>
 					
 					<div class="clear"></div>
