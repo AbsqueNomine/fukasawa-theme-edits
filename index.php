@@ -1,10 +1,11 @@
 <?php get_header(); ?>
 
+<div>
+	<!-- /google adsense code for banner ad above columns of articles on main/home page -->
+</div>
+
 <div class="content">
 
-	<div>
-		<!-- /google adsense code for banner ad above columns of articles on main/home page -->
-	</div>
 																	                    
 	<?php if (have_posts()) : ?>
 	
