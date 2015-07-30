@@ -116,6 +116,10 @@
 						<?php edit_post_link('Edit post', '<li>', '</li>'); ?>
 					</ul>
 					
+					<div>
+			    			<!-- /google adsense code here between tags and post navigation -->
+			    		</div>
+					
 					<div class="clear"></div>
 					
 				</div> <!-- /post-meta-bottom -->
