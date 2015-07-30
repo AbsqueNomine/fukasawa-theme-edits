@@ -119,16 +119,16 @@
 						<?php edit_post_link('Edit post', '<li>', '</li>'); ?>
 					</ul>
 					
-					<div>
-			    			<!-- /google adsense code here between tags and post navigation -->
-			    			&nbsp;
-			    			&nbsp;
-			    			&nbsp;
-			    		</div>
-					
 					<div class="clear"></div>
 					
 				</div> <!-- /post-meta-bottom -->
+			
+				<div>
+			    		<!-- /google adsense code here between tags and post navigation -->
+			    		&nbsp;
+			    		&nbsp;
+			    		&nbsp;
+			    	</div>
 			
 			</div> <!-- /post-inner -->
 			
