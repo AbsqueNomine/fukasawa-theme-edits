@@ -77,6 +77,10 @@
 															
 				</div> <!-- /post-header -->
 				    
+			    <div>
+			    	<!-- /google adsense code here between title and content -->
+			    </div>
+			    
 			    <div class="post-content">
 			    
 			    	<?php the_content(); ?>
