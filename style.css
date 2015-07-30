@@ -246,7 +246,7 @@ body a,
 	line-height: 150%;
 	font-weight: 700;
 	text-align: center;
-	text-transform: uppercase;
+	/* text-transform: uppercase; */
 	letter-spacing: 3px;
 	color: #333;
 }
