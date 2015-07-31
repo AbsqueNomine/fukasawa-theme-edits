@@ -1,5 +1,8 @@
 <?php get_header(); ?>
 
+<p>&nbsp;
+&nbsp;</p>
+
 <div>
 	<!-- /google adsense code for banner ad above columns of articles on main/home page -->
 </div>
