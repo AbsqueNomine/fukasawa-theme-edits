@@ -91,6 +91,14 @@
 			    </div> <!-- /post-content -->
 			    
 			    <div class="clear"></div>
+			    
+				<div>
+			    		&nbsp;
+			    		&nbsp;
+			    		&nbsp;
+			    		<!-- /google adsense code here between end of article and tags -->
+
+			    	</div>
 				
 				<div class="post-meta-bottom">
 				
