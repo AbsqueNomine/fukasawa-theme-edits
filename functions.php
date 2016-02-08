@@ -42,6 +42,18 @@ function fukasawa_setup() {
 	
 }
 
+// Hide article publication dates
+function jl_remove_post_dates() {
+	add_filter('the_date', '__return_false');
+	add_filter('the_time', '__return_false');
+	add_filter('the_modified_date', '__return_false');
+	add_filter('get_the_date', '__return_false');
+	add_filter('get_the_time', '__return_false');
+	add_filter('get_the_modified_date', '__return_false');
+} 
+
+add_action('loop_start', 'jl_remove_post_dates');
+
 
 // Register and enqueue Javascript files
 function fukasawa_load_javascript_files() {
