@@ -117,7 +117,6 @@
 					?>
 				
 					<ul>
-						<li class="post-date"><a href="<?php the_permalink(); ?>"><?php the_date(get_option('date_format')); ?></a></p>
 						<?php if (has_category()) : ?>
 							<li class="post-categories"><?php _e('In','fukasawa'); ?> <?php the_category(', '); ?></li>
 						<?php endif; ?>
